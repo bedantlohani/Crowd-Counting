@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>6</id>
+      <name>Eval</name>
+      <size>60</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2021-06-21 21:55:39.815473+00:00</created>
+      <updated>2021-06-22 15:37:47.079714+00:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>59</stop_frame>
+      <frame_filter></frame_filter>
+      <labels>
+        <label>
+          <name>Human</name>
+          <color>#fafa37</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>6</id>
+          <start>0</start>
+          <stop>59</stop>
+          <url>http://localhost:8080/?id=6</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>django</username>
+        <email>bedantlohani@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+    </task>
+    <dumped>2021-06-22 15:43:43.840849+00:00</dumped>
+  </meta>
+  <image id="59" name="Video3_9.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="303.14,228.02" z_order="0">
+    </points>
+  </image>
+  <image id="58" name="Video3_8.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="307.03,226.73" z_order="0">
+    </points>
+  </image>
+  <image id="57" name="Video3_7.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="302.71,225.86" z_order="0">
+    </points>
+  </image>
+  <image id="56" name="Video3_6.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="300.54,230.19" z_order="0">
+    </points>
+  </image>
+  <image id="55" name="Video3_5.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="304.87,225.86" z_order="0">
+    </points>
+  </image>
+  <image id="54" name="Video3_4.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="308.33,230.19" z_order="0">
+    </points>
+  </image>
+  <image id="53" name="Video3_3.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="300.98,225.86" z_order="0">
+    </points>
+  </image>
+  <image id="52" name="Video3_20.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="294.92,230.19" z_order="0">
+    </points>
+  </image>
+  <image id="51" name="Video3_2.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="302.71,226.29" z_order="0">
+    </points>
+  </image>
+  <image id="50" name="Video3_19.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="298.81,227.59" z_order="0">
+    </points>
+  </image>
+  <image id="49" name="Video3_18.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="304.00,226.29" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="Video3_17.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="304.44,222.40" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="Video3_16.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="299.68,221.10" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="Video3_15.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="302.27,223.26" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="Video3_14.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="307.03,235.81" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="Video3_13.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="296.65,228.46" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="Video3_12.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="307.03,221.53" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="Video3_11.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="306.17,225.86" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="Video3_10.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="305.30,225.86" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="Video3_1.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="303.14,227.59" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="Video2_9.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="342.95,109.03" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="390.54,19.90" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="532.47,32.45" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="Video2_8.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="523.81,38.07" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="351.17,100.81" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="392.27,16.87" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="Video2_7.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="355.93,101.25" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="393.14,16.87" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="526.84,32.45" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="Video2_6.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="356.36,99.95" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="531.17,35.48" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="394.44,18.60" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="Video2_5.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="525.98,36.34" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="349.00,97.35" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="393.57,16.44" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="Video2_4.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="529.87,34.18" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="393.14,14.71" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="351.60,106.00" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="Video2_3.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="395.74,18.17" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="531.60,29.42" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="354.20,101.68" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="Video2_20.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="394.87,17.30" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="348.14,92.59" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="Video2_2.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="519.05,34.18" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="348.57,99.08" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="Video2_19.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="393.14,19.03" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="345.11,95.62" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="Video2_18.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="392.27,16.87" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="354.63,107.74" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="Video2_17.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="394.44,19.47" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="348.14,97.78" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="Video2_16.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="397.47,16.87" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="349.44,96.49" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="Video2_15.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="345.11,101.68" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="394.44,15.57" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="Video2_14.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="337.32,93.46" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="393.14,18.17" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="Video2_13.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="393.14,17.30" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="347.71,107.30" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="426.46,16.87" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="Video2_12.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="392.71,16.87" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="350.30,106.87" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="556.26,32.88" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="Video2_11.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="346.41,94.75" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="392.71,17.74" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="533.76,31.58" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="Video2_10.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="391.41,18.60" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="348.57,99.51" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="533.76,32.45" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="Video2_1.jpg" width="820" height="540">
+    <points label="Human" occluded="0" source="manual" points="351.17,109.03" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="390.54,19.90" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="519.05,28.99" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="Video1_9.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="37.42,209.42" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="119.20,135.86" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="501.27,284.27" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="Video1_8.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="44.35,199.90" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="503.43,286.44" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="119.63,133.70" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="Video1_7.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="117.47,134.13" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="493.48,292.06" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="35.26,221.97" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="Video1_6.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="115.31,134.56" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="511.22,290.76" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="39.59,188.65" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="Video1_5.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="542.38,318.89" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="37.86,202.50" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="115.31,133.26" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="Video1_4.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="42.62,203.79" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="560.98,314.56" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="114.01,135.00" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="Video1_3.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="112.71,129.37" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="547.57,311.53" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="36.99,199.47" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="Video1_20.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="112.28,131.97" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="522.47,296.82" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="40.88,202.06" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="Video1_2.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="559.68,319.75" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="38.29,204.66" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="116.17,137.16" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="Video1_19.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="551.03,312.83" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="34.39,203.36" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="117.90,134.56" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="Video1_18.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="516.41,297.25" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="34.83,202.93" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="119.20,136.73" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="Video1_17.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="33.96,199.03" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="114.88,136.73" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="530.69,295.09" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="Video1_16.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="43.91,218.07" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="545.84,299.85" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="114.44,135.86" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="Video1_15.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="36.99,205.52" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="109.25,131.53" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="560.98,308.94" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="Video1_14.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="40.02,203.36" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="110.98,135.00" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="504.30,284.71" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="Video1_13.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="37.86,208.99" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="113.14,133.70" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="500.84,284.27" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="Video1_12.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="38.72,202.50" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="111.41,131.53" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="504.30,289.47" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="Video1_11.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="112.28,132.40" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="36.12,204.23" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="497.81,287.74" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="Video1_10.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="38.72,209.85" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="506.03,288.60" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="110.98,133.70" z_order="0">
+    </points>
+  </image>
+  <image id="0" name="Video1_1.jpg" width="800" height="540">
+    <points label="Human" occluded="0" source="manual" points="117.47,134.13" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="38.72,201.63" z_order="0">
+    </points>
+    <points label="Human" occluded="0" source="manual" points="523.77,301.15" z_order="0">
+    </points>
+  </image>
+</annotations>
